@@ -11,7 +11,7 @@ const nextConfig = {
           fallback: [
             {
               source: "/:path*",
-              destination:`https://staging-web.simplified.com/:path*`,
+              destination:`https://web.simplified.com/:path*`,
             },
           ],
         };
